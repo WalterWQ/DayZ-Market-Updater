@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "ammo_12gapellets",
-            "MaxPriceThreshold": 125,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 500,
