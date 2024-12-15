@@ -1,0 +1,27 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Boats",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Boat_01_Orange",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+              	"SparkPlug"
+            ],
+            "Variants": [
+                "Boat_01_Blue",
+                "Boat_01_Black",
+                "Boat_01_Camo"
+            ]
+        }
+    ]
+}
