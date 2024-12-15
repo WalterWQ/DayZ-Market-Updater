@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "fal",
-            "MaxPriceThreshold": 10030,
-            "MinPriceThreshold": 6020,
+            "MaxPriceThreshold": 1905,
+            "MinPriceThreshold": 1804,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -22,8 +22,8 @@
         },
         {
             "ClassName": "akm",
-            "MaxPriceThreshold": 11190,
-            "MinPriceThreshold": 6715,
+            "MaxPriceThreshold": 1318,
+            "MinPriceThreshold": 857,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -37,8 +37,8 @@
         },
         {
             "ClassName": "ak101",
-            "MaxPriceThreshold": 4550,
-            "MinPriceThreshold": 2730,
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1199,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "ak74",
-            "MaxPriceThreshold": 9900,
-            "MinPriceThreshold": 5940,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 969,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -67,8 +67,8 @@
         },
         {
             "ClassName": "m4a1",
-            "MaxPriceThreshold": 2040,
-            "MinPriceThreshold": 1225,
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1039,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -83,8 +83,8 @@
         },
         {
             "ClassName": "m16a2",
-            "MaxPriceThreshold": 4550,
-            "MinPriceThreshold": 2730,
+            "MaxPriceThreshold": 1581,
+            "MinPriceThreshold": 1028,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "famas",
-            "MaxPriceThreshold": 4550,
-            "MinPriceThreshold": 2730,
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 6500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -109,8 +109,8 @@
         },
         {
             "ClassName": "aug",
-            "MaxPriceThreshold": 2040,
-            "MinPriceThreshold": 1225,
+            "MaxPriceThreshold": 2599,
+            "MinPriceThreshold": 1999,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -122,8 +122,8 @@
         },
         {
             "ClassName": "augshort",
-            "MaxPriceThreshold": 4550,
-            "MinPriceThreshold": 2730,
+            "MaxPriceThreshold": 254,
+            "MinPriceThreshold": 198,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
