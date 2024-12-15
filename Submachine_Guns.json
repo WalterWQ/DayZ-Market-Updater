@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "ump45",
-            "MaxPriceThreshold": 6940,
-            "MinPriceThreshold": 4165,
+            "MaxPriceThreshold": 1963,
+            "MinPriceThreshold": 1963,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "mp5k",
-            "MaxPriceThreshold": 5595,
-            "MinPriceThreshold": 3355,
+            "MaxPriceThreshold": 2300,
+            "MinPriceThreshold": 1850,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -49,8 +49,8 @@
         },
         {
             "ClassName": "aks74u",
-            "MaxPriceThreshold": 8980,
-            "MinPriceThreshold": 5390,
+            "MaxPriceThreshold": 1849,
+            "MinPriceThreshold": 1189,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
