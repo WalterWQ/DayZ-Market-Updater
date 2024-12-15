@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "sportglasses_orange",
-            "MaxPriceThreshold": 8900,
+            "MaxPriceThreshold": 900,
             "MinPriceThreshold": 260,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
