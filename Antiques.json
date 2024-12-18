@@ -1,13 +1,13 @@
 {
   "m_Version": 12,
-  "DisplayName": "Masks",
+  "DisplayName": "Antiques",
   "Icon": "Deliver",
   "Color": "FBFCFEFF",
   "InitStockPercent": 75.0,
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "Aztec_Mask_Face_2_12",
+      "ClassName": "O12_Aztec_Mat_Dragon",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -18,7 +18,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_11",
+      "ClassName": "O12_Aztec_Mat_Danger",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -29,7 +29,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_10",
+      "ClassName": "O12_Aztec_Mat_Brickwall",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -40,7 +40,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_9",
+      "ClassName": "O12_Aztec_Mat_Gold_Triangle",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -51,7 +51,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_8",
+      "ClassName": "O12_Aztec_Mat_Abstract",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -62,7 +62,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_7",
+      "ClassName": "O12_Aztec_Mat_Clover",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -73,7 +73,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_6",
+      "ClassName": "O12_Aztec_Mat_Hell_Lava",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -84,7 +84,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_5",
+      "ClassName": "O12_Aztec_Mat_Lava_Rock",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -95,7 +95,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_4",
+      "ClassName": "O12_Aztec_Mat_Ice_Rock",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -106,7 +106,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_3",
+      "ClassName": "O12_Aztec_Mat_Honey_Bee",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -117,7 +117,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_2",
+      "ClassName": "O12_Aztec_Mat_Brains",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -128,7 +128,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2_1",
+      "ClassName": "O12_Aztec_Mat_Etch",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -139,7 +139,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_11",
+      "ClassName": "O12_Aztec_Mat_Gamer",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -150,7 +150,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_10",
+      "ClassName": "O12_Aztec_Mat_Gwen",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -161,7 +161,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_9",
+      "ClassName": "O12_Aztec_Mat_Graffiti",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -172,7 +172,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_8",
+      "ClassName": "O12_Aztec_Mat_OrangeSoda",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -183,7 +183,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_7",
+      "ClassName": "O12_Aztec_Mat_Websy",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -194,7 +194,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_6",
+      "ClassName": "O12_Aztec_Mat_Tiki",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -205,7 +205,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_5",
+      "ClassName": "O12_Aztec_Mat_Inferno",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -216,7 +216,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_4",
+      "ClassName": "O12_Aztec_Mat_Casino",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -227,7 +227,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_3",
+      "ClassName": "O12_Aztec_Mat_Gingerbread_Man",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -238,7 +238,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_2",
+      "ClassName": "O12_Aztec_Mat_Ripper",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
       "SellPricePercent": 50.0,
@@ -249,9 +249,174 @@
       "Variants": []
     },
     {
-      "ClassName": "Aztec_Mask_Face_1",
+      "ClassName": "O12_Aztec_Mat_Teddy_Bear",
       "MaxPriceThreshold": 5000,
       "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Metal",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Aztec",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Illuminati",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Sackboy",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Space",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Toon",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Uniacc_2020",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Robot",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_SuperMat",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Aztec_Mat_Robber",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Statue1",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Statue2",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Statue3",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "O12_Statue4",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "land_Mats_Shelf_kit",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

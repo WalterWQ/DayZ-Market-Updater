@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Booster Packs",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Aztec_Booster_Pack_3",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Aztec_Booster_Pack_2",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Aztec_Booster_Pack_1",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
