@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Boat_01_Orange",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
