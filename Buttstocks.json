@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "mp5k_stockbttstck",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 499,
             "MinPriceThreshold": 179,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
