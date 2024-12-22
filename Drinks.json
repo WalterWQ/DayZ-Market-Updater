@@ -64,7 +64,7 @@
         {
             "ClassName": "waterbottle",
             "MaxPriceThreshold": 2,
-            "MinPriceThreshold": 2,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "canteen",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
