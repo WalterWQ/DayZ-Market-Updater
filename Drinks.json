@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "sodacan_pipsi",
-            "MaxPriceThreshold": 1005,
-            "MinPriceThreshold": 605,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "sodacan_cola",
-            "MaxPriceThreshold": 1005,
-            "MinPriceThreshold": 605,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "sodacan_spite",
-            "MaxPriceThreshold": 1005,
-            "MinPriceThreshold": 605,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "sodacan_kvass",
-            "MaxPriceThreshold": 1005,
-            "MinPriceThreshold": 605,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "sodacan_fronta",
-            "MaxPriceThreshold": 1005,
-            "MinPriceThreshold": 605,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "waterbottle",
-            "MaxPriceThreshold": 105,
-            "MinPriceThreshold": 65,
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "canteen",
-            "MaxPriceThreshold": 1210,
-            "MinPriceThreshold": 725,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "glassbottle",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "filteringbottle",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 145,
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 24,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
