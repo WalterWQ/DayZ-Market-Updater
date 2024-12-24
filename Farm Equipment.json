@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "EFI_GreenHouse_Kit",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 4954,
+      "MinPriceThreshold": 4913,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "EFI_Single_Planter_Kit",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 29,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "EFI_Planter_Kit",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 129,
+      "MinPriceThreshold": 50,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
