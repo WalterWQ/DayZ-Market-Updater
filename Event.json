@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "easteregg",
-            "MaxPriceThreshold": 510,
-            "MinPriceThreshold": 305,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "crookednose",
-            "MaxPriceThreshold": 1800,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1080,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "cauldron",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1080,
+            "MaxPriceThreshold": 371,
+            "MinPriceThreshold": 124
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "witchhat",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1080,
+            "MaxPriceThreshold": 33,
+            "MinPriceThreshold": 6,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "witchhood_black",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1080,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -66,8 +66,8 @@
         },
         {
             "ClassName": "paydaymask_dallas",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 145,
+            "MaxPriceThreshold": 59,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -81,8 +81,8 @@
         },
         {
             "ClassName": "candycane_green",
-            "MaxPriceThreshold": 510,
-            "MinPriceThreshold": 305,
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "christmasheadband_antlers",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 360,
+            "MaxPriceThreshold": 27,
+            "MinPriceThreshold": 6,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -110,8 +110,8 @@
         },
         {
             "ClassName": "pumpkinhelmet",
-            "MaxPriceThreshold": 2370,
-            "MinPriceThreshold": 1425,
+            "MaxPriceThreshold": 297,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -121,8 +121,8 @@
         },
         {
             "ClassName": "santasbeard",
-            "MaxPriceThreshold": 425,
-            "MinPriceThreshold": 255,
+            "MaxPriceThreshold": 61,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -132,8 +132,8 @@
         },
         {
             "ClassName": "santashat",
-            "MaxPriceThreshold": 2470,
-            "MinPriceThreshold": 1485,
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
