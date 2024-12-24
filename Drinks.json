@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "glassbottle",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 25,
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "filteringbottle",
-            "MaxPriceThreshold": 24,
-            "MinPriceThreshold": 24,
+            "MaxPriceThreshold": 89,
+            "MinPriceThreshold": 21,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
