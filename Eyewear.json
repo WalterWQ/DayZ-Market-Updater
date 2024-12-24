@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "sportglasses_orange",
-            "MaxPriceThreshold": 890,
-            "MinPriceThreshold": 260,
+            "MaxPriceThreshold": 89,
+            "MinPriceThreshold": 56,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "sportglasses_blue",
-            "MaxPriceThreshold": 430,
-            "MinPriceThreshold": 260,
+            "MaxPriceThreshold": 89,
+            "MinPriceThreshold": 56,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "sportglasses_black",
-            "MaxPriceThreshold": 430,
-            "MinPriceThreshold": 260,
+            "MaxPriceThreshold": 89,
+            "MinPriceThreshold": 56,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "sportglasses_green",
-            "MaxPriceThreshold": 430,
-            "MinPriceThreshold": 260,
+            "MaxPriceThreshold": 89,
+            "MinPriceThreshold": 56,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "thinframesglasses",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 210,
+            "MaxPriceThreshold": 43,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -67,8 +67,8 @@
         },
         {
             "ClassName": "thickframesglasses",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 210,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 34,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "aviatorglasses",
-            "MaxPriceThreshold": 840,
-            "MinPriceThreshold": 505,
+            "MaxPriceThreshold": 299,
+            "MinPriceThreshold": 37,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -100,8 +100,8 @@
         },
         {
             "ClassName": "tacticalgoggles",
-            "MaxPriceThreshold": 9150,
-            "MinPriceThreshold": 5490,
+            "MaxPriceThreshold": 117,
+            "MinPriceThreshold": 112,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -111,8 +111,8 @@
         },
         {
             "ClassName": "nvgheadstrap",
-            "MaxPriceThreshold": 16160,
-            "MinPriceThreshold": 9695,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 14,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
