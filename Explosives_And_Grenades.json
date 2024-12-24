@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "rgd5grenade",
-            "MaxPriceThreshold": 22085,
-            "MinPriceThreshold": 13250,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "m67grenade",
-            "MaxPriceThreshold": 22085,
-            "MinPriceThreshold": 13250,
+            "MaxPriceThreshold": 56,
+            "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "flashgrenade",
-            "MaxPriceThreshold": 3450,
-            "MinPriceThreshold": 2070,
+            "MaxPriceThreshold": 53,
+            "MinPriceThreshold": 42,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "remotedetonator",
-            "MaxPriceThreshold": 11875,
-            "MinPriceThreshold": 7125,
+            "MaxPriceThreshold": 640,
+            "MinPriceThreshold": 128,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "remotedetonatortrigger",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 136,
+            "MinPriceThreshold": 126,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "improvisedexplosive",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "plastic_explosive",
-            "MaxPriceThreshold": 16965,
+            "MaxPriceThreshold": 18563,
             "MinPriceThreshold": 10180,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
