@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "flag_chernarus",
-            "MaxPriceThreshold": 625,
+            "MaxPriceThreshold": 624,
             "MinPriceThreshold": 375,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
