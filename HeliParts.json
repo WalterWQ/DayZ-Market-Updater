@@ -7,7 +7,7 @@
     "Items": [
         {
             "ClassName": "headlighth7_box",
-            "MaxPriceThreshold": 60,
+            "MaxPriceThreshold": 55,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
@@ -18,8 +18,8 @@
         },
         {
             "ClassName": "headlighth7",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 17,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -40,8 +40,8 @@
         },
         {
             "ClassName": "tirerepairkit",
-            "MaxPriceThreshold": 440,
-            "MinPriceThreshold": 220,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -51,8 +51,8 @@
         },
         {
             "ClassName": "sparkplug",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -95,8 +95,8 @@
         },
 		{
             "ClassName": "RFFSHeli_aviation_battery",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 533,
+            "MinPriceThreshold": 375,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -106,8 +106,8 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_DriverDoor",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1520,
+            "MinPriceThreshold": 987,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -117,8 +117,8 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_CoDriverDoor",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1520,
+            "MinPriceThreshold": 987,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -128,8 +128,8 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_Cargo1",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1320,
+            "MinPriceThreshold": 987,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -139,8 +139,8 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_Cargo2",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1320,
+            "MinPriceThreshold": 987,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -150,8 +150,8 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_Cargo3",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1320,
+            "MinPriceThreshold": 968,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -161,8 +161,8 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_Cargo4",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1322,
+            "MinPriceThreshold": 967,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -172,7 +172,7 @@
         },
 		{
             "ClassName": "RFFSHeli_Bo105m_Fuselage",
-            "MaxPriceThreshold": 120,
+            "MaxPriceThreshold": 12320,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
