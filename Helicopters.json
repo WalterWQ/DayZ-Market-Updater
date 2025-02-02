@@ -9,7 +9,7 @@
 		{
             "ClassName": "RFFSHeli_Apache",
             "MaxPriceThreshold": 4000000,
-            "MinPriceThreshold": 2000000,
+            "MinPriceThreshold": 4000000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
