@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "combinationlock",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 27,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "combinationlock4",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 49,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
