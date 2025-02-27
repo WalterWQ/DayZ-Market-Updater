@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "brassknuckles_dull",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 28,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "brassknuckles_shiny",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 89,
+            "MinPriceThreshold": 69,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "broom",
-            "MaxPriceThreshold": 26,
-            "MinPriceThreshold": 31,
+            "MaxPriceThreshold": 44,
+            "MinPriceThreshold": 44,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "broom_birch",
-            "MaxPriceThreshold": 108,
-            "MinPriceThreshold": 96,
+            "MaxPriceThreshold": 56,
+            "MinPriceThreshold": 48,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "pipe",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "baseballbat",
-            "MaxPriceThreshold": 345,
-            "MinPriceThreshold": 109,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 31,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "mace",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 42,
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 17,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
