@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "compass",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 960,
+            "MaxPriceThreshold": 17,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "orienteeringcompass",
-            "MaxPriceThreshold": 555,
-            "MinPriceThreshold": 330,
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "chernarusmap",
-            "MaxPriceThreshold": 910,
-            "MinPriceThreshold": 545,
+            "MaxPriceThreshold": 27,
+            "MinPriceThreshold": 27,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "binoculars",
-            "MaxPriceThreshold": 1530,
-            "MinPriceThreshold": 915,
+            "MaxPriceThreshold": 47,
+            "MinPriceThreshold": 36,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "gpsreceiver",
-            "MaxPriceThreshold": 1425,
-            "MinPriceThreshold": 855,
+            "MaxPriceThreshold": 365,
+            "MinPriceThreshold": 139,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
