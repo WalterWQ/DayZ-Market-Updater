@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "mosin_compensator",
-            "MaxPriceThreshold": 53,
+            "MaxPriceThreshold": 54,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
