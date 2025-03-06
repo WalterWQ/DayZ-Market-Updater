@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "battery9v",
-            "MaxPriceThreshold": 3,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "carbattery",
-            "MaxPriceThreshold": 192,
-            "MinPriceThreshold": 89,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "truckbattery",
-            "MaxPriceThreshold": 329,
-            "MinPriceThreshold": 144,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
