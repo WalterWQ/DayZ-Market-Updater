@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "civilianbelt",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 48,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "militarybelt",
-            "MaxPriceThreshold": 116,
-            "MinPriceThreshold": 45,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "hippack_black",
-            "MaxPriceThreshold": 79,
-            "MinPriceThreshold": 39,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
