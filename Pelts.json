@@ -85,7 +85,7 @@
     },
     {
       "ClassName": "CowPelt",
-      "MaxPriceThreshold": 200
+      "MaxPriceThreshold": 200,
       "MinPriceThreshold": 125,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
