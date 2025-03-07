@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "WolfPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "WildboarPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 189,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "SheepPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 650,
+      "MinPriceThreshold": 600,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "RabbitPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 13,
+      "MinPriceThreshold": 10,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
     },
     {
       "ClassName": "PigPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 26,
+      "MinPriceThreshold": 18,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
     },
     {
       "ClassName": "GoatPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 150,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
     },
     {
       "ClassName": "DeerPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 26,
+      "MinPriceThreshold": 18,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
     },
     {
       "ClassName": "CowPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 200
+      "MinPriceThreshold": 125,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
     },
     {
       "ClassName": "BearPelt",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 178,
+      "MinPriceThreshold": 178,
       "SellPricePercent": 50.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
