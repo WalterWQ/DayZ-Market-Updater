@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "mosin_compensator",
-            "MaxPriceThreshold": 54,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "mp5_compensator",
-            "MaxPriceThreshold": 165,
-            "MinPriceThreshold": 119,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "m4_suppressor",
-            "MaxPriceThreshold": 1179,
-            "MinPriceThreshold": 849,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "ak_suppressor",
-            "MaxPriceThreshold": 999,
-            "MinPriceThreshold": 779,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "pistolsuppressor",
-            "MaxPriceThreshold": 785,
-            "MinPriceThreshold": 237,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
