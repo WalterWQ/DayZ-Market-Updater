@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "brassknuckles_dull",
-            "MaxPriceThreshold": 34,
-            "MinPriceThreshold": 28,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "brassknuckles_shiny",
-            "MaxPriceThreshold": 89,
-            "MinPriceThreshold": 69,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "broom",
-            "MaxPriceThreshold": 44,
-            "MinPriceThreshold": 44,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "broom_birch",
-            "MaxPriceThreshold": 56,
-            "MinPriceThreshold": 48,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
         {
             "ClassName": "baseballbat",
             "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 31,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "mace",
-            "MaxPriceThreshold": 24,
-            "MinPriceThreshold": 17,
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
