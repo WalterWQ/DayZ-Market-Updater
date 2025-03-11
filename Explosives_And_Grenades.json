@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "rgd5grenade",
-            "MaxPriceThreshold": 10,
+            "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "m67grenade",
-            "MaxPriceThreshold": 56,
+            "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "flashgrenade",
-            "MaxPriceThreshold": 53,
-            "MinPriceThreshold": 42,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "remotedetonator",
-            "MaxPriceThreshold": 640,
-            "MinPriceThreshold": 128,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "remotedetonatortrigger",
-            "MaxPriceThreshold": 136,
-            "MinPriceThreshold": 126,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
         {
             "ClassName": "improvisedexplosive",
             "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 20000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "plastic_explosive",
-            "MaxPriceThreshold": 18563,
-            "MinPriceThreshold": 10180,
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "grenade_chemgas",
-            "MaxPriceThreshold": 480,
-            "MinPriceThreshold": 290,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "m18smokegrenade_red",
-            "MaxPriceThreshold": 3450,
-            "MinPriceThreshold": 2070,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -112,8 +112,8 @@
         },
         {
             "ClassName": "rdg2smokegrenade_black",
-            "MaxPriceThreshold": 2760,
-            "MinPriceThreshold": 1655,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -125,8 +125,8 @@
         },
         {
             "ClassName": "rdg2smokegrenade_white",
-            "MaxPriceThreshold": 2760,
-            "MinPriceThreshold": 1655,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -136,8 +136,8 @@
         },
         {
             "ClassName": "landminetrap",
-            "MaxPriceThreshold": 25445,
-            "MinPriceThreshold": 15265,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -148,7 +148,7 @@
         {
             "ClassName": "claymoremine",
             "MaxPriceThreshold": 26625,
-            "MinPriceThreshold": 15975,
+            "MinPriceThreshold": 26625,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
