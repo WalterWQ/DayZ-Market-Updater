@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "paper",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "pen_black",
-            "MaxPriceThreshold": 570,
-            "MinPriceThreshold": 340,
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "rope",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 113,
+            "MinPriceThreshold": 83,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "metalwire",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 29,
+            "MinPriceThreshold": 13,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "epoxyputty",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 19,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -67,8 +67,8 @@
         },
         {
             "ClassName": "ducttape",
-            "MaxPriceThreshold": 545,
-            "MinPriceThreshold": 330,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -78,8 +78,8 @@
         },
         {
             "ClassName": "pot",
-            "MaxPriceThreshold": 475,
-            "MinPriceThreshold": 285,
+            "MaxPriceThreshold": 139,
+            "MinPriceThreshold": 65,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "handcuffkeys",
-            "MaxPriceThreshold": 1075,
-            "MinPriceThreshold": 645,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -100,8 +100,8 @@
         },
         {
             "ClassName": "handcuffs",
-            "MaxPriceThreshold": 1025,
-            "MinPriceThreshold": 615,
+            "MaxPriceThreshold": 29,
+            "MinPriceThreshold": 11,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
