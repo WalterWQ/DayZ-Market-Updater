@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "partytent",
-            "MaxPriceThreshold": 5105,
-            "MinPriceThreshold": 3060,
+            "MaxPriceThreshold": 522,
+            "MinPriceThreshold": 299,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "partytent_blue",
-            "MaxPriceThreshold": 5105,
-            "MinPriceThreshold": 3060,
+            "MaxPriceThreshold": 522,
+            "MinPriceThreshold": 299,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "partytent_brown",
-            "MaxPriceThreshold": 5105,
-            "MinPriceThreshold": 3060,
+            "MaxPriceThreshold": 522,
+            "MinPriceThreshold": 299,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "partytent_lunapark",
-            "MaxPriceThreshold": 6380,
-            "MinPriceThreshold": 3830,
+            "MaxPriceThreshold": 3360,
+            "MinPriceThreshold": 1350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "mediumtent",
-            "MaxPriceThreshold": 3925,
-            "MinPriceThreshold": 2355,
+            "MaxPriceThreshold": 54,
+            "MinPriceThreshold": 43,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -70,8 +70,8 @@
         },
         {
             "ClassName": "mediumtent_orange",
-            "MaxPriceThreshold": 3925,
-            "MinPriceThreshold": 2355,
+            "MaxPriceThreshold": 127,
+            "MinPriceThreshold": 109,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -81,8 +81,8 @@
         },
         {
             "ClassName": "mediumtent_green",
-            "MaxPriceThreshold": 5025,
-            "MinPriceThreshold": 3015,
+            "MaxPriceThreshold": 99,
+            "MinPriceThreshold": 84,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -92,8 +92,8 @@
         },
         {
             "ClassName": "largetent",
-            "MaxPriceThreshold": 19140,
-            "MinPriceThreshold": 11485,
+            "MaxPriceThreshold": 137,
+            "MinPriceThreshold": 135,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -103,8 +103,8 @@
         },
         {
             "ClassName": "cartent",
-            "MaxPriceThreshold": 9250,
-            "MinPriceThreshold": 5550,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 186,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
