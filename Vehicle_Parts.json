@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "headlighth7_box",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "headlighth7",
-            "MaxPriceThreshold": 985,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "carradiator",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "tirerepairkit",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "sparkplug",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "glowplug",
-            "MaxPriceThreshold": 1135,
-            "MinPriceThreshold": 680,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
